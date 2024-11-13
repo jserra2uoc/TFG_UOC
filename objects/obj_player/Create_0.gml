@@ -1,5 +1,4 @@
 
-window_set_size(1280,720)
 
 h_speed = 0;
 v_speed = 0;
