@@ -4,7 +4,7 @@
 // Keyboard controls
 key_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
 key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
-key_jump = keyboard_check_pressed(vk_space) || keyboard_check(ord("W"));
+key_jump = keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W"));
 
 if (key_left) || (key_right) || (key_jump){
 
@@ -104,7 +104,7 @@ y = y + v_speed;    //apply vertical movement
 
 // -------------- SHOT ATTACK ----------------------------------------------------------------
 
-if (gamepad_button_check_pressed(0,gp_face3) || keyboard_check_pressed(ord("S"))){
+if (gamepad_button_check_pressed(0,gp_face3) || keyboard_check_pressed(ord("X"))){
 	
 	with (instance_create_layer(x+2,y-3,"Bullets",obj_bullet)){	
 		speed = 5;    // bullet instance speed
