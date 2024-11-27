@@ -23,7 +23,7 @@
   ],
   "name":"sSpikes",
   "nineSlice":null,
-  "origin":1,
+  "origin":4,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":8,
-    "yorigin":0,
+    "yorigin":8,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

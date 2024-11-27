@@ -121,13 +121,16 @@ if (gamepad_button_check_pressed(0,gp_face3) || keyboard_check_pressed(ord("X"))
 
 
 
-//--------------- MECHANICS -------------------------------------------------------------
+//--------------- DAMAGE -------------------------------------------------------------
 
 // OUT OF BOUNDS DEAD
 if (y > room_height){
 	room_restart();
 }
 
+if place_meeting(x, y, obj_spikes){
+	room_restart();
+}
 
 
 
@@ -175,11 +178,13 @@ if (h_speed != 0 ){
 
 //-------------- CHECK LEVEL COMPLETE --------------------------------------------------------------
 
-if (place_meeting(x, y, obj_flag)) {
-    if (room != rm_room2) {
+if (place_meeting(x, y, obj_flag_toMenu)) {
+    room_goto(rm_menu);
+	
+	/*if (room != rm_room2) {
         room_goto_next();
     } else {
         game_end();
-    }
+    }*/
 }
 
