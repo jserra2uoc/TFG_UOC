@@ -1,4 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-room_goto_next();
+if (place_meeting(x,y,obj_solid)){
+	instance_destroy();
+}

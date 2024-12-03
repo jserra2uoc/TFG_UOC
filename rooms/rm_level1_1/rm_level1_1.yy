@@ -205,7 +205,6 @@
     {"name":"inst_707810D9","path":"rooms/rm_level1_1/rm_level1_1.yy",},
     {"name":"inst_1E23ADB","path":"rooms/rm_level1_1/rm_level1_1.yy",},
     {"name":"inst_92E8FC4","path":"rooms/rm_level1_1/rm_level1_1.yy",},
-    {"name":"inst_6798809C","path":"rooms/rm_level1_1/rm_level1_1.yy",},
     {"name":"inst_2CF0D542","path":"rooms/rm_level1_1/rm_level1_1.yy",},
     {"name":"inst_3524B4D9","path":"rooms/rm_level1_1/rm_level1_1.yy",},
     {"name":"inst_6A07733B","path":"rooms/rm_level1_1/rm_level1_1.yy",},
@@ -265,6 +264,8 @@
     {"name":"inst_7634820A","path":"rooms/rm_level1_1/rm_level1_1.yy",},
     {"name":"inst_591B9DD2","path":"rooms/rm_level1_1/rm_level1_1.yy",},
     {"name":"inst_A056BCA","path":"rooms/rm_level1_1/rm_level1_1.yy",},
+    {"name":"inst_5EF68ECC","path":"rooms/rm_level1_1/rm_level1_1.yy",},
+    {"name":"inst_30A2C99","path":"rooms/rm_level1_1/rm_level1_1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -272,7 +273,8 @@
     {"$GMRInstanceLayer":"","%Name":"Player","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_629C48A8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_629C48A8","objectId":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":80.0,"y":96.0,},
         {"$GMRInstance":"v1","%Name":"inst_776F6510","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_776F6510","objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":31.0,"y":149.0,},
-        {"$GMRInstance":"v1","%Name":"inst_6798809C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6798809C","objectId":{"name":"obj_flag_toMenu","path":"objects/obj_flag_toMenu/obj_flag_toMenu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1626.0,"y":143.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5EF68ECC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5EF68ECC","objectId":{"name":"obj_window_size","path":"objects/obj_window_size/obj_window_size.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":55.0,"y":62.0,},
+        {"$GMRInstance":"v1","%Name":"inst_30A2C99","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_30A2C99","objectId":{"name":"obj_flag_nextLevel","path":"objects/obj_flag_nextLevel/obj_flag_nextLevel.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1609.0,"y":144.0,},
       ],"layers":[],"name":"Player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Enemies","depth":200,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_259E9874","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_259E9874","objectId":{"name":"obj_enemy_drone","path":"objects/obj_enemy_drone/obj_enemy_drone.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":262.0,"y":144.0,},

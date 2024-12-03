@@ -30,7 +30,7 @@ if (gamepad_button_check_pressed(0, gp_face1)){
 
 //-------------- CHECK IF PLAYER IS ON GROUND --------------------------------------------
 
-var _on_ground = place_meeting(x, y+1, obj_solid);
+var _on_ground = (place_meeting(x, y+1, obj_solid) || place_meeting(x, y+1, obj_moving_platform));
 
 
 
@@ -80,7 +80,10 @@ if (place_meeting(x + h_speed, y, obj_solid)){
 	while (!place_meeting(x + sign(h_speed), y, obj_solid)){
 		x = x + sign(h_speed);
 	}
-	h_speed = 0;
+	if(!place_meeting(x,y+1, obj_moving_platform)){
+		h_speed = 0;
+	}
+		
 }
 
 x = x + h_speed;    //apply horizontal movement
