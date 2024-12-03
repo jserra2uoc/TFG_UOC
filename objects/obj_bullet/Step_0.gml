@@ -7,6 +7,6 @@ var _dx = lengthdir_x(speed, direction);
 x += _dx;
 
 // Destroy bullet when out of bounds of the screen
-if (x < 0 || x > window_get_width() || y < 0 || y > window_get_height()) {
+if (x < 0 || x > (window_get_width() + 320)) {  // offset of 320
 	instance_destroy();
 }

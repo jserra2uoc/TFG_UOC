@@ -13,8 +13,8 @@
   "name":"obj_button_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Menu_Buttons",
+    "path":"folders/Objects/Menu_Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,

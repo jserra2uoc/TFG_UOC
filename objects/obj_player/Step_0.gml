@@ -76,7 +76,7 @@ if (_on_ground && key_jump){
 //-------------- COLLISIONS -------------------------------------------------------------------
 
 //Horizontal Collision
-if place_meeting(x + h_speed, y, obj_solid){
+if (place_meeting(x + h_speed, y, obj_solid)){
 	while (!place_meeting(x + sign(h_speed), y, obj_solid)){
 		x = x + sign(h_speed);
 	}
