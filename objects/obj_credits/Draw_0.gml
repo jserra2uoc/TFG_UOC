@@ -1,7 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-// Inherit the parent event
-event_inherited();
-
-room_goto(rm_controls);
+draw_set_halign(fa_center);
+draw_text(x, y ,text);

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_flag_nextLevel",
+  "%Name":"obj_logo_uoc",
   "eventList":[],
   "managed":true,
-  "name":"obj_flag_nextLevel",
+  "name":"obj_logo_uoc",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_flag",
-    "path":"sprites/spr_flag/spr_flag.yy",
+    "name":"Sprite39",
+    "path":"sprites/Sprite39/Sprite39.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

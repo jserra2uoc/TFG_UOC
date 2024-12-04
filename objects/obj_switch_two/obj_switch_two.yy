@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_flag_nextLevel",
-  "eventList":[],
+  "%Name":"obj_switch_two",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_flag_nextLevel",
+  "name":"obj_switch_two",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_flag",
-    "path":"sprites/spr_flag/spr_flag.yy",
+    "name":"spr_switch_one_off",
+    "path":"sprites/spr_switch_one_off/spr_switch_one_off.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
