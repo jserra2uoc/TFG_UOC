@@ -8,7 +8,7 @@ Right:       'Right arrow key' | 'D'
 Jump:        'Up arrow key'    | 'W'
 Attack:                                | 'X'
 
-Restart Level:                   | 'R'
+Pause music:                      | 'Y'
 Menu:                                  | 'M'
 Quit game:                           | 'Q'
 

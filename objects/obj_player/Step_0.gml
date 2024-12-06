@@ -109,6 +109,7 @@ y = y + v_speed;    //apply vertical movement
 
 if (gamepad_button_check_pressed(0,gp_face3) || keyboard_check_pressed(ord("X"))){
 	
+	audio_play_sound(snd_player_shoot,10,false);
 	with (instance_create_layer(x+2,y-3,"Bullets",obj_bullet)){	
 		speed = 5;    // bullet instance speed
 		
