@@ -7,7 +7,7 @@
   },
   "bitDepth":1,
   "bitRate":128,
-  "compression":0,
+  "compression":1,
   "conversionMode":0,
   "duration":102.31297,
   "name":"snd_msc_level1_2",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_msc_level1_2.wav",
+  "soundFile":"snd_msc_level1_2.ogg",
   "type":0,
-  "volume":0.6,
+  "volume":0.61,
 }

@@ -7,9 +7,9 @@
   },
   "bitDepth":1,
   "bitRate":192,
-  "compression":2,
+  "compression":1,
   "conversionMode":0,
-  "duration":45.04524,
+  "duration":44.57143,
   "name":"snd_msc_menu",
   "parent":{
     "name":"Sounds",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_msc_menu.wav",
+  "soundFile":"snd_msc_menu.ogg",
   "type":1,
   "volume":1.0,
 }
