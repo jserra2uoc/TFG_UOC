@@ -6,8 +6,8 @@
   "name":"obj_logo_uoc",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Text_screens",
+    "path":"folders/Objects/Text_screens.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite39",
-    "path":"sprites/Sprite39/Sprite39.yy",
+    "name":"spr_uoc",
+    "path":"sprites/spr_uoc/spr_uoc.yy",
   },
   "spriteMaskId":null,
   "visible":true,

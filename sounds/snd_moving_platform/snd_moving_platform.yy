@@ -12,8 +12,8 @@
   "duration":15.135034,
   "name":"snd_moving_platform",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Sound_FX",
+    "path":"folders/Sounds/Sound_FX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_moving_platform.wav",
   "type":0,
-  "volume":0.9,
+  "volume":0.6,
 }

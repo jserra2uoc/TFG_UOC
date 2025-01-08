@@ -12,8 +12,8 @@
   "duration":37.0,
   "name":"snd_msc_lore",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"OST",
+    "path":"folders/Sounds/OST.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_msc_lore.ogg",
   "type":0,
-  "volume":0.29,
+  "volume":0.1,
 }

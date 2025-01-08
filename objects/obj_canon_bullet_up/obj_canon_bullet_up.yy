@@ -10,8 +10,8 @@
   "name":"obj_canon_bullet_up",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Dangers",
+    "path":"folders/Objects/Dangers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

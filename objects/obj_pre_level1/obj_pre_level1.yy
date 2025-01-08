@@ -12,8 +12,8 @@
   "name":"obj_pre_level1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Text_screens",
+    "path":"folders/Objects/Text_screens.yy",
   },
   "parentObjectId":null,
   "persistent":false,

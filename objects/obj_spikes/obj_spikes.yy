@@ -6,8 +6,8 @@
   "name":"obj_spikes",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Dangers",
+    "path":"folders/Objects/Dangers.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sSpikes",
-    "path":"sprites/sSpikes/sSpikes.yy",
+    "name":"spr_spikes",
+    "path":"sprites/spr_spikes/spr_spikes.yy",
   },
   "spriteMaskId":null,
   "visible":true,

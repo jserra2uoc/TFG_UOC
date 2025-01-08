@@ -48,6 +48,11 @@ if (!audio_paused){
 	else if (_room_name == "rm_credits"){
 		if (audio_is_playing(snd_msc_level1_3) || audio_is_paused(snd_msc_level1_3)) audio_stop_sound(snd_msc_level1_3);
 	}
+	else if(_room_name == "rm_menu"){
+		audio_stop_sound(snd_msc_level1_1);
+		audio_stop_sound(snd_msc_level1_2);
+		audio_stop_sound(snd_msc_level1_3);
+	}
 
 }
 

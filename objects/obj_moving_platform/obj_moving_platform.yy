@@ -10,8 +10,8 @@
   "name":"obj_moving_platform",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Platforms",
+    "path":"folders/Objects/Platforms.yy",
   },
   "parentObjectId":{
     "name":"obj_solid",
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite16",
-    "path":"sprites/Sprite16/Sprite16.yy",
+    "name":"spr_moving_platform",
+    "path":"sprites/spr_moving_platform/spr_moving_platform.yy",
   },
   "spriteMaskId":null,
   "visible":true,

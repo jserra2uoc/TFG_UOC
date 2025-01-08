@@ -12,8 +12,8 @@
   "duration":0.669002,
   "name":"snd_player_shoot",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Sound_FX",
+    "path":"folders/Sounds/Sound_FX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

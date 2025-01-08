@@ -12,8 +12,8 @@
   "duration":13.124943,
   "name":"snd_moving_bridge",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Sound_FX",
+    "path":"folders/Sounds/Sound_FX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -9,8 +9,8 @@
   "name":"obj_canon_up",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Dangers",
+    "path":"folders/Objects/Dangers.yy",
   },
   "parentObjectId":{
     "name":"obj_solid",
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite12",
-    "path":"sprites/Sprite12/Sprite12.yy",
+    "name":"spr_obj_canon",
+    "path":"sprites/spr_obj_canon/spr_obj_canon.yy",
   },
   "spriteMaskId":null,
   "visible":true,

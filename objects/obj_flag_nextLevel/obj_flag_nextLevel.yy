@@ -6,8 +6,8 @@
   "name":"obj_flag_nextLevel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Game_Objects",
+    "path":"folders/Objects/Game_Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

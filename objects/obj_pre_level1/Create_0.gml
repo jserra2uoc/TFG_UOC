@@ -4,27 +4,28 @@
 text=@"In 2106, Prometheus, a super AI, 
 governs humanity through four modules: 
 Protect, Provide, Procreate and Progress. 
-Guarded by the White Dogs, 
-a hybrid army, 
-Prometheus controls all devices 
-on the planet. 
+A hybrid army
+of robots and humans
+known as White Dogs
+are charged with
+protecting Prometheus.
 
-However, unexplained anomalies raise 
-doubts about its operation. 
-A group of engineers discover 
-a secret fifth module 
-called Purge, which sees 
-humanity as a threat 
-and seeks to silently 
-eliminate it. 
+However, cyberattacks by terrorists
+against this AI cause an anomaly.
+To defend itself, 
+Prometheus creates
+a secret virtual module
+called Purge with the mission
+to exterminate humanity.
 
-These engineers, now labeled 
-Black Dogs by Prometheus, 
-plan to destroy the AI
-to save humanity, 
-while the White Dogs 
-defend the system against 
-this subversive threat.";
+
+Former soliders and engineers,
+who worked on this AI, 
+discover this serious anomaly.
+Under the name of
+Black Dogs, they unite 
+to destroy Prometheus 
+and save humanity.";
 
 x = room_width * 0.5;
 y = room_height + 5;

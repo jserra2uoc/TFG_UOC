@@ -12,8 +12,8 @@
   "duration":107.25,
   "name":"snd_msc_level1_3",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"OST",
+    "path":"folders/Sounds/OST.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_msc_level1_3.ogg",
   "type":0,
-  "volume":0.8,
+  "volume":0.38,
 }

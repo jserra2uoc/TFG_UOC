@@ -10,8 +10,8 @@
   "name":"obj_controls",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Text_screens",
+    "path":"folders/Objects/Text_screens.yy",
   },
   "parentObjectId":null,
   "persistent":false,

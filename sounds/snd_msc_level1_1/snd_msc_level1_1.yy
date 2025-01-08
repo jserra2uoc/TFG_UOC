@@ -9,11 +9,11 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":118.438705,
+  "duration":117.42857,
   "name":"snd_msc_level1_1",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"OST",
+    "path":"folders/Sounds/OST.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_msc_level1_1.ogg",
   "type":1,
-  "volume":1.0,
+  "volume":0.23,
 }
